@@ -1,6 +1,8 @@
 
 # BANKOOMP
 
+Mei Dong, Stella Huangfu, Timothy Kam, Sam Ng
+
 * Banking concentration
 * outside-option value
 * money (internal financing)
